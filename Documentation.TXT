@@ -1,0 +1,17 @@
+	Path Finder using React
+
+
+-> Install React application.
+
+
+step 1 -> built a Components in which we work on
+in that app i used class components you can use 
+functional
+
+
+step 2 -> i . is to build a grid
+              ii.  is to build a node Component
+
+Step 3 -> i . Clear the grid node means that every node initialy unvisited .
+	-> learn about the use of "for of" loop
+	-> how to directly accessing dom
